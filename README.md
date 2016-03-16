@@ -9,7 +9,6 @@ public class Arraymax {
 		int max = a[0];
 		for(int i=1;i<a.length)
 		
-
 	}
 
 }
